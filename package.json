@@ -1,0 +1,24 @@
+{
+  "name": "ttni-cmn",
+  "version": "0.0.1",
+  "description": "common funcs for itcmd",
+  "main": "./dist/index.js",
+  "types": ".npm/dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitbbln/ttni-cmn.git"
+  },
+  "keywords": [],
+  "author": "bbln",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitbbln/ttni-cmn/issues"
+  },
+  "homepage": "https://github.com/gitbbln/ttni-cmn#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}

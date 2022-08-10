@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es2015", "dom"],
+    "rootDirs": ["src", "example"],
+    "outDir": "dist",
+    "moduleResolution": "node",
+    "strict": true,
+    "strictPropertyInitialization": false,
+    "esModuleInterop": false,
+    "declaration": true,
+    "sourceMap": false,
+    "pretty": false,
+    "noEmitHelpers": true,
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "alwaysStrict": true,
+    "removeComments": true,
+    "skipLibCheck": true,
+    "allowUnusedLabels": true,
+    "removeComments": true,
+    "inlineSources": false,
+    "skipLibCheck": true
+  },
+  "include": ["src", "example"],
+  "exclude": ["node_modules", "**/__tests__/*"]
+}
